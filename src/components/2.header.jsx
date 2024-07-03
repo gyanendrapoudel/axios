@@ -26,7 +26,7 @@ const Header = () => {
    console.log(joke)
 
   return (
-    <div>
+    <div className="header">
       <p>
         <strong>2. Header</strong>
       </p>

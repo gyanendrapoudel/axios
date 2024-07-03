@@ -3,3 +3,7 @@
     margin: 10rem auto;
     text-align: center;
 }
+.header{
+    border: 2px solid red;
+    margin-bottom: 2rem;
+}

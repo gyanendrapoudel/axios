@@ -19,5 +19,7 @@
 -second argument
 -axios.get(url, {})
 
+### Post request
 -third argument in requests with data
 -axios.post(url, {data},{})
+-more options (auth header) 
