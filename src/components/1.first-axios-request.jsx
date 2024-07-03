@@ -20,7 +20,10 @@ const FirstRequest = () => {
     },[])
   return (
     <div>
-        First Request
+      <p>
+        <strong>1. First Request: </strong>
+        meaning fetching data using axios and reading error using error.response
+      </p>
     </div>
   )
 }

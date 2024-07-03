@@ -13,3 +13,11 @@
 -returns a promise
 -response data located in data object
 -error in error.response
+
+
+# Headers
+-second argument
+-axios.get(url, {})
+
+-third argument in requests with data
+-axios.post(url, {data},{})
