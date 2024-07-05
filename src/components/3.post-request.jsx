@@ -1,6 +1,6 @@
 import axios from "axios"
 import { useState } from "react"
-const url = 'https://www.course-api.com/axios-tutorial-post'
+const url = 'https://www.course-api.com/axios'
 const Post = () => {
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')

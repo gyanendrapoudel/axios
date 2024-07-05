@@ -4,6 +4,7 @@ import FirstRequest from './components/1.first-axios-request'
 import Header from './components/2.header'
 import Post from './components/3.post-request'
 import Global from './components/4.global-instance'
+import Interceptor from './components/6.interceptors'
 // import './axios/global'
 import Custom from './components/5.custom-instance'
 function App() {
@@ -16,7 +17,9 @@ function App() {
       {/* <Header />
       <Post/> */}
       {/* <Global/> */}
-      <Custom/>
+      {/* <Custom/> */}
+      <Interceptor/>
+
     </div>
   )
 }
